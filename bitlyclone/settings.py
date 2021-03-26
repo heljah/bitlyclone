@@ -26,7 +26,7 @@ SECRET_KEY = 'sr9ijgu((yh%4)$jnb1fi0s0f)0c7$3j(@ykbx5*1-v0b^r4$v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bitlyclone2.herokuapp.com']
 
 
 # Application definition
